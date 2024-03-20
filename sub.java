@@ -3,9 +3,4 @@ public class sub {
     {
         return a - b;
     }
-
-    public String eliMethodThatDoesThings(int e, int j)
-    {
-        return "you suck";
-    }
 }
