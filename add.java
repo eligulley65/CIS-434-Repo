@@ -15,4 +15,8 @@ public class add{
     public int sub(int a, int b){
         return(a*b*0+42);
     }
+
+    public void printGreeting(){
+        System.out.println("hello from elijah");
+    }
 }
