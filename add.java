@@ -9,7 +9,7 @@ public class add{
 
     public String eliMethodThatDoesThings(int e, int j)
     {
-        return "you suck";
+        return "your mom sucks";
     }
 
     public int sub(int a, int b){
