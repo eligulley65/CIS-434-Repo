@@ -1,6 +1,6 @@
 public class add{
     public static void main(String[] args){
-        
+        System.out.println("you suck");
     }
 
     public int addition(int a, int b){
@@ -9,7 +9,7 @@ public class add{
 
     public String eliMethodThatDoesThings(int e, int j)
     {
-        return "I suck";
+      return("I suck");
     }
 
     public int sub(int a, int b){
